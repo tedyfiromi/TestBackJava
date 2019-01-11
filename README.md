@@ -1,5 +1,7 @@
-# Show me the code
+Canditato: Tedy Marcos Miranda Firomi
+Empresa: Everis 
 
+<<<<<<< HEAD
 ### # DESAFIO:
 
 API REST para Gestão de Gastos!
@@ -75,3 +77,9 @@ Faça um fork desse desse repositório em seu Github e nos envie um Pull Request
 
 # BOA SORTE!
 teste
+=======
+Execução do projeto:
+Para a execução do projeto no docker basta executar o comando "docker-compose up" na raiz do projeto, desde que claro, já tenha todo o ambiente preparado e configurado com docker. Ele criará as imagens
+java, mongo e gestao-gastos. Infelizmente não consegui a tempo fazer a criptografia e nem desenvolver todos os testes que
+poderiam ser realizados. 
+>>>>>>> fe1b6354461f7dbec8fbb52739e638b09037186f
